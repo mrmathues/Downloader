@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/downloader/static/css/main.2301b472.css",
+    "main.js": "/downloader/static/js/main.ef838ac5.js",
+    "static/js/453.36be422c.chunk.js": "/downloader/static/js/453.36be422c.chunk.js",
+    "index.html": "/downloader/index.html",
+    "main.2301b472.css.map": "/downloader/static/css/main.2301b472.css.map",
+    "main.ef838ac5.js.map": "/downloader/static/js/main.ef838ac5.js.map",
+    "453.36be422c.chunk.js.map": "/downloader/static/js/453.36be422c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2301b472.css",
+    "static/js/main.ef838ac5.js"
+  ]
+}
